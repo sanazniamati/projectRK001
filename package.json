@@ -2,6 +2,7 @@
   "name": "projectrk001",
   "version": "0.1.0",
   "private": true,
+  "description": "create some basic canvas shapes with React-konva",
   "keywords": [
     "react-konva",
     "react",
